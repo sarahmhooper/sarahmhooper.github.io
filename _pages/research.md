@@ -25,12 +25,12 @@ years: [1967, 1956, 1950, 1935, 1905]
 2. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas. International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
 3. K. Saab, **S. M. Hooper**, M. Chen, M. Zhang, D. Rubin, C. Ré. Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity. Machine Learning for Healthcare, 2022.
 4. **S. M. Hooper**, M. Wornow, Y. H. Seah, P. Kellman, H. Xue, F. Sala, C. Langlotz, C. Ré. Cut Out the Annotator, Keep the Cutout: Better Segmentation with Weak Supervision. ICLR, 2021. 
-5. **S. M. Hooper***, J. A. Dunnmon,* M. P. Lungren, D. Mastrodicasa, D. L. Rubin, C. Ré, A. Wang, B. N. Patel. Impact of Upstream Medical Image Processing on the Downstream Performance of a Head CT Triage Neural Network. Radiology AI, 2021.
+5. **S. M. Hooper\***, J. A. Dunnmon\*, M. P. Lungren, D. Mastrodicasa, D. L. Rubin, C. Ré, A. Wang, B. N. Patel. Impact of Upstream Medical Image Processing on the Downstream Performance of a Head CT Triage Neural Network. Radiology AI, 2021.
 6. K. Saab, **S. M. Hooper**, N. Sohoni, J. Parmar, B. Pogatchnik, S. Wu, J. Dunnmon, H. Zhang, D. Rubin, C. Ré. Observational Supervision for Medical Image Classification using Gaze Data. MICCAI, 2021.
 7. J. Kim, B. Park, J. Ha, I. Steinberg, **S. M. Hooper**, C. Jeong, E. Park, W. Choi, T. Liang, J. Bae, R. Managuli, Y. Kim, S. Gambhir, D. Lim, and C. Kim. Multiparametric Photoacoustic Analysis of Human Thyroid Cancers In Vivo. Cancer Research, 2021.
 8. I. Steinberg, J. Kim, M. K. Schinder, D. Hyun, A. Zlitni, **S. M. Hooper**, T. Klap, G. A. Sonn, J. J. Dahl, C. Kim, S.S. Gambhir. Superiorized Photo-Acoustic Non-NEgative Reconstruction (SPANNER) for Clinical Photoacoustic Imaging. IEEE Transactions on Medical Imaging, 2021. 
-9. **S. M. Hooper***, J. Dunnmon*, M. Lungren, S. S. Gambhir, C. Ré, A. Wang, B. Patel. Assessing Robustness to Noise: Low-Cost Head CT Triage. AI for Affordable Healthcare Workshop at ICLR, 2020. 
-10. D. Fu*, M. Chen*, F. Sala, **S. M. Hooper**, K. Fatahalian, C. Ré. Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods. ICML, 2020. 
+9. **S. M. Hooper\***, J. Dunnmon*, M. Lungren, S. S. Gambhir, C. Ré, A. Wang, B. Patel. Assessing Robustness to Noise: Low-Cost Head CT Triage. AI for Affordable Healthcare Workshop at ICLR, 2020. 
+10. D. Fu\*, M. Chen\*, F. Sala, **S. M. Hooper**, K. Fatahalian, C. Ré. Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods. ICML, 2020. 
 11. **S. M. Hooper**, E. Biegert, M. Levy, J. Pensock, L. Van der Spoel, X. Zhang, T. Zhang, N. Tandon, B. Aazhang. On Developing an FPGA Based System for Real Time Seizure Prediction. Asilomar Conference on Signals, Systems, and Computers, 2017.
 
 
@@ -39,7 +39,7 @@ years: [1967, 1956, 1950, 1935, 1905]
 13. B. Park, J. Kim, J. Ha, I. Steinberg, **S. M. Hooper**, C. Jeong, E. Park, W. Choi, T. Liang, J. S. Bae, R. Managuli, Y. Kim, S. S. Gambhir, D. Lim, C. Kim. Photoacoustic Score as a Novel Classification Method for Thyroid Cancer Nodules In Vivo. Photons Plus Ultrasound: Imaging and Sensing, 2021. 
 14. J. Kim, B. Park, J. Ha, I. Steinberg, E. Park, W. Choi., **S. M. Hooper**, S. S. Gambhir, D. Lim, C. Kim. Multispectral Photoacoustic Assessment of Thyroid Cancer Nodules In Vivo. SPIE Photonics West, 2020.
 15. J. Kim, I. Steinberg, B. Park, **S. M. Hooper**, J. Ha, D. Lim, S. S. Gambhir, D. Lim, C. Kim. Clinical Trial to Identify the Malignancy of Thyroid Nodules with Multispectral Photoacoustic Analysis. Early Detection of Cancer Conference, 2019. 
-16. **S. M. Hooper***, M. Wardak*, S. Huang, C. Schiepers, T. F. Cloughesy, S. S. Gambhir. Using Deep Learning to Predict a Positron Emission Tomography Image Without Injecting a Tracer. World Molecular Imaging Conference, 2019. 
+16. **S. M. Hooper\***, M. Wardak\*, S. Huang, C. Schiepers, T. F. Cloughesy, S. S. Gambhir. Using Deep Learning to Predict a Positron Emission Tomography Image Without Injecting a Tracer. World Molecular Imaging Conference, 2019. 
 17. I. Steinberg, D. M. Huland, **S. M. Hooper**, T. Klap, S. Gambhir. Improved Photoacoustic and Ultrasonic Image Reconstruction of Clinical Data. World Molecular Imaging Conference, 2018.
 18. **S. M. Hooper**, E. Biegert, M. Levy, J. Pensock, L. Van der Spoel, X. Zhang, T. Zhang, N. Tandon, B. Aazhang. Machine Learning System for Real-time Seizure Prediction in Epileptic Patients. Gulf Coast Undergraduate Research Symposium, 2016.
 19. **S. M. Hooper**, F. Phuathavornskul, F. Prieto, T. Zhang, B. Aazhang. Machine Learning System for Real-time Seizure Prediction in Epileptic Patients. NeuroX Research Symposium, 2016.
