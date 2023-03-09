@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**About me.** I’m currently a sixth year Ph.D. student in Electrical Engineering at Stanford University. I am lucky to be advised by Drs. Chris Ré and Curt Langlotz, affiliated with the Stanford Machine Learning Group and the Center for Artificial Intelligence in Medicine and Imaging. I am also grateful to be supported by a Hertz Fellowship, a National Science Foundation Graduate Research Fellowship, and a Stanford Graduate Fellowship in Science and Engineering as the Texas Instruments Fellow.
+**About me.** I’m currently a sixth year Ph.D. student in Electrical Engineering at Stanford University. I am lucky to be advised by Drs. [Chris Ré] (https://cs.stanford.edu/~chrismre/) and [Curt Langlotz] (https://profiles.stanford.edu/curtis-langlotz), affiliated with Stanford's [Center for Artificial Intelligence in Medicine and Imaging] (https://aimi.stanford.edu/) and the [Stanford AI Lab] (https://ai.stanford.edu/). I am also grateful to be supported by a [Hertz Fellowship] (https://www.hertzfoundation.org/the-fellowship/), a [National Science Foundation Graduate Research Fellowship] (https://www.nsfgrfp.org/), and a [Stanford Graduate Fellowship in Science and Engineering] (https://vpge.stanford.edu/fellowships-funding/sgf) as the Texas Instruments Fellow.
 
 **Research interests.** I’m excited by the potential of machine learning to improve healthcare, particularly in settings where access to expertise or resources are limited. Most of my graduate research has focused on developing and evaluating deep learning methods for medical image analysis. 
 
