@@ -6,7 +6,7 @@ title: Research
 nav: true
 nav_order: 1
 
-# years: [1967, 1956, 1950, 1935, 1905]
+years: [1967, 1956, 1950, 1935, 1905]
 
 ---
 
@@ -19,7 +19,7 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 <div class="publications">
-bibliography -f papers
+# bibliography -f papers
   
 {%- for y in page.years %}
  <h2 class="year">{{y}}</h2>
@@ -27,3 +27,5 @@ bibliography -f papers
 {% endfor %}
 
 </div>
+
+
