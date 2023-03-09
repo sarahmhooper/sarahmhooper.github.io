@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
-      PhD Candidate in EE, Stanford University
+      PhD Candidate in EE, Stanford University                                          
 #    <p>smhooper at cs dot stanford dot edu</p>
     
 news: false  # includes a list of news items
