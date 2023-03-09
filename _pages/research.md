@@ -21,8 +21,7 @@ years: [1967, 1956, 1950, 1935, 1905]
 
 ### Publications
 
-# Pub1
-1. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance imaging. Journal of Medical Imaging, 2023.
+<a name="pub1"> 1. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance imaging. Journal of Medical Imaging, 2023.</a>
 2. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. [Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas](https://link.springer.com/chapter/10.1007/978-3-031-16919-9_3). International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
 3. K. Saab, **S. M. Hooper**, M. Chen, M. Zhang, D. Rubin, C. Ré. [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity](https://proceedings.mlr.press/v182/saab22a.html). Machine Learning for Healthcare, 2022.
 4. **S. M. Hooper**, M. Wornow, Y. H. Seah, P. Kellman, H. Xue, F. Sala, C. Langlotz, C. Ré. [Cut Out the Annotator, Keep the Cutout: Better Segmentation with Weak Supervision](https://openreview.net/pdf?id=bjkX6Kzb5H). ICLR, 2021. 
