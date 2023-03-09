@@ -23,16 +23,16 @@ years: [1967, 1956, 1950, 1935, 1905]
 
 # Pub1
 1. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance imaging. Journal of Medical Imaging, 2023.
-2. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas. International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
-3. K. Saab, **S. M. Hooper**, M. Chen, M. Zhang, D. Rubin, C. Ré. Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity. Machine Learning for Healthcare, 2022.
-4. **S. M. Hooper**, M. Wornow, Y. H. Seah, P. Kellman, H. Xue, F. Sala, C. Langlotz, C. Ré. Cut Out the Annotator, Keep the Cutout: Better Segmentation with Weak Supervision. ICLR, 2021. 
-5. **S. M. Hooper\***, J. A. Dunnmon\*, M. P. Lungren, D. Mastrodicasa, D. L. Rubin, C. Ré, A. Wang, B. N. Patel. Impact of Upstream Medical Image Processing on the Downstream Performance of a Head CT Triage Neural Network. Radiology AI, 2021.
-6. K. Saab, **S. M. Hooper**, N. Sohoni, J. Parmar, B. Pogatchnik, S. Wu, J. Dunnmon, H. Zhang, D. Rubin, C. Ré. Observational Supervision for Medical Image Classification using Gaze Data. MICCAI, 2021.
-7. J. Kim, B. Park, J. Ha, I. Steinberg, **S. M. Hooper**, C. Jeong, E. Park, W. Choi, T. Liang, J. Bae, R. Managuli, Y. Kim, S. Gambhir, D. Lim, and C. Kim. Multiparametric Photoacoustic Analysis of Human Thyroid Cancers In Vivo. Cancer Research, 2021.
-8. I. Steinberg, J. Kim, M. K. Schinder, D. Hyun, A. Zlitni, **S. M. Hooper**, T. Klap, G. A. Sonn, J. J. Dahl, C. Kim, S.S. Gambhir. Superiorized Photo-Acoustic Non-NEgative Reconstruction (SPANNER) for Clinical Photoacoustic Imaging. IEEE Transactions on Medical Imaging, 2021. 
-9. **S. M. Hooper\***, J. Dunnmon*, M. Lungren, S. S. Gambhir, C. Ré, A. Wang, B. Patel. Assessing Robustness to Noise: Low-Cost Head CT Triage. AI for Affordable Healthcare Workshop at ICLR, 2020. 
-10. D. Fu\*, M. Chen\*, F. Sala, **S. M. Hooper**, K. Fatahalian, C. Ré. Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods. ICML, 2020. 
-11. **S. M. Hooper**, E. Biegert, M. Levy, J. Pensock, L. Van der Spoel, X. Zhang, T. Zhang, N. Tandon, B. Aazhang. On Developing an FPGA Based System for Real Time Seizure Prediction. Asilomar Conference on Signals, Systems, and Computers, 2017.
+2. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. [Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas](https://link.springer.com/chapter/10.1007/978-3-031-16919-9_3). International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
+3. K. Saab, **S. M. Hooper**, M. Chen, M. Zhang, D. Rubin, C. Ré. [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity](https://proceedings.mlr.press/v182/saab22a.html). Machine Learning for Healthcare, 2022.
+4. **S. M. Hooper**, M. Wornow, Y. H. Seah, P. Kellman, H. Xue, F. Sala, C. Langlotz, C. Ré. [Cut Out the Annotator, Keep the Cutout: Better Segmentation with Weak Supervision](https://openreview.net/pdf?id=bjkX6Kzb5H). ICLR, 2021. 
+5. **S. M. Hooper\***, J. A. Dunnmon\*, M. P. Lungren, D. Mastrodicasa, D. L. Rubin, C. Ré, A. Wang, B. N. Patel. [Impact of Upstream Medical Image Processing on the Downstream Performance of a Head CT Triage Neural Network](https://pubs.rsna.org/doi/full/10.1148/ryai.2021200229). Radiology AI, 2021.
+6. K. Saab, **S. M. Hooper**, N. Sohoni, J. Parmar, B. Pogatchnik, S. Wu, J. Dunnmon, H. Zhang, D. Rubin, C. Ré. [Observational Supervision for Medical Image Classification using Gaze Data](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_56). MICCAI, 2021.
+7. J. Kim, B. Park, J. Ha, I. Steinberg, **S. M. Hooper**, C. Jeong, E. Park, W. Choi, T. Liang, J. Bae, R. Managuli, Y. Kim, S. Gambhir, D. Lim, and C. Kim. [Multiparametric Photoacoustic Analysis of Human Thyroid Cancers In Vivo. Cancer Research](https://aacrjournals.org/cancerres/article/81/18/4849/670325/Multiparametric-Photoacoustic-Analysis-of-Human), 2021.
+8. I. Steinberg, J. Kim, M. K. Schinder, D. Hyun, A. Zlitni, **S. M. Hooper**, T. Klap, G. A. Sonn, J. J. Dahl, C. Kim, S.S. Gambhir. [Superiorized Photo-Acoustic Non-NEgative Reconstruction (SPANNER) for Clinical Photoacoustic Imaging](https://ieeexplore.ieee.org/document/9383259). IEEE Transactions on Medical Imaging, 2021. 
+9. **S. M. Hooper\***, J. Dunnmon*, M. Lungren, S. S. Gambhir, C. Ré, A. Wang, B. Patel. [Assessing Robustness to Noise: Low-Cost Head CT Triage](https://arxiv.org/abs/2003.07977). AI for Affordable Healthcare Workshop at ICLR, 2020. 
+10. D. Fu\*, M. Chen\*, F. Sala, **S. M. Hooper**, K. Fatahalian, C. Ré. [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](http://proceedings.mlr.press/v119/fu20a/fu20a.pdf). ICML, 2020. 
+11. **S. M. Hooper**, E. Biegert, M. Levy, J. Pensock, L. Van der Spoel, X. Zhang, T. Zhang, N. Tandon, B. Aazhang. [On Developing an FPGA Based System for Real Time Seizure Prediction](https://ieeexplore.ieee.org/document/8335146). Asilomar Conference on Signals, Systems, and Computers, 2017.
 
 
 ### Abstracts
@@ -48,6 +48,6 @@ years: [1967, 1956, 1950, 1935, 1905]
 
 
 ### Patents
-21. **S. M. Hooper**, M. Wardak, S. S. Gambhir. Systems and Methods for Synthetic Medical Image Generation. United States Patent, granted 2022. 
+21. **S. M. Hooper**, M. Wardak, S. S. Gambhir. [Systems and Methods for Synthetic Medical Image Generation](https://patents.google.com/patent/US11398026B2/en). United States Patent, granted 2022. 
 
 
