@@ -8,8 +8,8 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-#  address: 
-#      **PhD Candidate** in EE, Stanford University
+  address: 
+      **PhD Candidate** in EE, Stanford University
 # **MS** in EE, Stanford University 2020
 #      **BS** in EE, Rice University 2017
 #    <p>smhooper at cs dot stanford dot edu</p>
