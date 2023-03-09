@@ -10,16 +10,16 @@ years: [1967, 1956, 1950, 1935, 1905]
 
 ---
 
-**Current research.** I’ve been lucky to work on projects throughout the medical imaging pipeline, from upstream image acquisition [8, 9], preprocessing [5], and synthesis [2] to downstream image analysis [[1](#pub1), 6, 7]. I’ve recently focused on a line of work around medical image segmentation. I've developed methods to train segmentation networks with limited labeled data [1, 4, 10], evaluated these networks on clinical tasks [1], and explored how we can leverage segmentation to improve other ML pipelines [[3](#pub3), ongoing].
+**Current research.** I’ve been lucky to work on projects throughout the medical imaging pipeline, from upstream image acquisition [[8](#pub8), [9](#pub9)], preprocessing [[5](#pub5)], and synthesis [[2](#pub2),[21](#pub21)] to downstream image analysis [[1](#pub1), [6](#pub6), [7](#pub7)]. I’ve recently focused on a line of work around medical image segmentation. I've developed methods to train segmentation networks with limited labeled data [[1](#pub1), [4](#pub4), [10](#pub10)], evaluated these networks on clinical tasks [[1](#pub1),[12](#pub12)], and explored how we can leverage segmentation to improve other ML pipelines [[3](#pub3), ongoing].
 
 **Future interests.** In the short-term, I’m interested in continuing to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. Longer-term, I think there is great potential in considering a wider breadth of the imaging pipeline---including acquisition hardware, reconstruction algorithms, downstream analysis---together when developing ML-based applications for medical imaging. Ultimately, I hope to help transition these technological advances into usable systems that make measurable improvements in healthcare.
 
-**Past work.** In the past, I’ve explored other areas at the intersection of technology and healthcare. As an undergraduate at Rice University, I worked with a large team in Electrical Engineering investigating automated seizure detection to control deep brain stimulation systems. I’ve also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I’ve investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress.
+**Past work.** In the past, I’ve explored other areas at the intersection of technology and healthcare. As an undergraduate at Rice University, I worked with a large team in Electrical Engineering investigating automated seizure detection to control deep brain stimulation systems [[11](#pub11),[18](#pub18),[19](#pub19)]. I’ve also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I’ve investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress [[20](#pub20)].
 
 
 
 
-### Publications
+#### Publications
 
 <a name="pub1"> </a> 1. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance imaging. Journal of Medical Imaging, 2023.
 
@@ -45,7 +45,7 @@ years: [1967, 1956, 1950, 1935, 1905]
   
 
 
-### Abstracts
+#### Abstracts
 <a name="pub12"> </a> 12. **S. M. Hooper**, S. Wu, R. H. Davies, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Speeding Up Cardiac MR Segmentation with Semi-Supervision: Applications in Cine Imaging. Artificial Intelligence in CMR, Joint Summit of EACVI and SCMR, 2022.
   
 <a name="pub13"> </a> 13. B. Park, J. Kim, J. Ha, I. Steinberg, **S. M. Hooper**, C. Jeong, E. Park, W. Choi, T. Liang, J. S. Bae, R. Managuli, Y. Kim, S. S. Gambhir, D. Lim, C. Kim. Photoacoustic Score as a Novel Classification Method for Thyroid Cancer Nodules In Vivo. Photons Plus Ultrasound: Imaging and Sensing, 2021. 
@@ -65,7 +65,7 @@ years: [1967, 1956, 1950, 1935, 1905]
 <a name="pub20"> </a> 20. **S. M. Hooper**, K. Powers, R. Wettermann, R. Richards-Kortum. Bubble Continuous Positive Airway Pressure Temperature Regulation System to Prevent Neonatal Hypothermia in Low Resource Settings. National Undergraduate Global Health Technologies Design Competition, 2015.
   
 
-### Patents
+#### Patents
 <a name="pub21"> </a> 21. **S. M. Hooper**, M. Wardak, S. S. Gambhir. [Systems and Methods for Synthetic Medical Image Generation](https://patents.google.com/patent/US11398026B2/en). United States Patent, granted 2022. 
 
 
