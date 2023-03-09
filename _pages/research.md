@@ -5,9 +5,6 @@ title: Research
 # description: Long description long descroption long description
 nav: true
 nav_order: 1
-
-years: [1967, 1956, 1950, 1935, 1905]
-
 ---
 
 **Current research.** I’ve been lucky to work on projects throughout the medical imaging pipeline, from upstream image acquisition [[8](#pub8), [9](#pub9)], preprocessing [[5](#pub5)], and synthesis [[2](#pub2), [21](#pub21)] to downstream image analysis [[1](#pub1), [6](#pub6), [7](#pub7)]. I’ve recently focused on a line of work around medical image segmentation. I've developed methods to train segmentation networks with limited labeled data [[1](#pub1), [4](#pub4), [10](#pub10)], evaluated these networks on clinical tasks [[1](#pub1), [12](#pub12)], and explored how we can leverage segmentation to improve other ML pipelines [[3](#pub3), ongoing].
