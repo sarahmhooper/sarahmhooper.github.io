@@ -5,11 +5,11 @@ permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>smhooper at cs dot stanford dot edu</p>
+#  address: >
+#    <p>smhooper at cs dot stanford dot edu</p>
     
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
