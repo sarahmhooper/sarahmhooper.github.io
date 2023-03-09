@@ -10,7 +10,7 @@ years: [1967, 1956, 1950, 1935, 1905]
 
 ---
 
-**Current research.** I’ve been lucky to work on projects throughout the medical imaging pipeline, from upstream image acquisition [8, 9], preprocessing [5], and synthesis [2] to downstream image analysis [1, 6, 7]. I’ve recently focused on a line of work around medical image segmentation. I've developed methods to train segmentation networks with limited labeled data [1, 4, 10], evaluated these networks on clinical tasks [1], and explored how we can leverage segmentation to improve other ML pipelines [3, ongoing].
+**Current research.** I’ve been lucky to work on projects throughout the medical imaging pipeline, from upstream image acquisition [8, 9], preprocessing [5], and synthesis [2] to downstream image analysis [[1](#pub1), 6, 7]. I’ve recently focused on a line of work around medical image segmentation. I've developed methods to train segmentation networks with limited labeled data [1, 4, 10], evaluated these networks on clinical tasks [1], and explored how we can leverage segmentation to improve other ML pipelines [3, ongoing].
 
 **Future interests.** In the short-term, I’m interested in continuing to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. Longer-term, I think there is great potential in considering a wider breadth of the imaging pipeline---including acquisition hardware, reconstruction algorithms, downstream analysis---together when developing ML-based applications for medical imaging. Ultimately, I hope to help transition these technological advances into usable systems that make measurable improvements in healthcare.
 
@@ -21,6 +21,7 @@ years: [1967, 1956, 1950, 1935, 1905]
 
 ### Publications
 
+# Pub1
 1. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance imaging. Journal of Medical Imaging, 2023.
 2. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas. International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
 3. K. Saab, **S. M. Hooper**, M. Chen, M. Zhang, D. Rubin, C. Ré. Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity. Machine Learning for Healthcare, 2022.
