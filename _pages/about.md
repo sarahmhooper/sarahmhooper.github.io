@@ -12,10 +12,6 @@ profile:
       **PhD Candidate** in EE, Stanford University
       **MS** in EE, Stanford University 2020
       **BS** in EE, Rice University 2017
-      
-      
-      
-      
 #    <p>smhooper at cs dot stanford dot edu</p>
     
 news: false  # includes a list of news items
