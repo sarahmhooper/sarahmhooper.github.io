@@ -7,13 +7,18 @@ nav: true
 nav_order: 1
 ---
 
-**Current research.** I have worked on projects throughout the medical imaging pipeline, from upstream image acquisition [[8](#pub8), [9](#pub9)], preprocessing [[5](#pub5)], and synthesis [[2](#pub2), [21](#pub21)] to downstream image analysis [[1](#pub1), [6](#pub6), [7](#pub7)]. I’ve recently focused on a line of work around medical image segmentation. I've developed methods to train segmentation networks with limited labeled data [[1](#pub1), [4](#pub4), [10](#pub10)], evaluated these networks on clinical tasks [[1](#pub1), [12](#pub12)], and explored how we can leverage segmentation to improve other ML pipelines [[3](#pub3), ongoing].
+**Current research.** I have worked on projects throughout the medical imaging pipeline, from upstream image acquisition [[8](#pub8), [9](#pub9)], preprocessing [[5](#pub5)], and synthesis [[2](#pub2), [21](#pub21)] to downstream image analysis [[1](#pub1), [6](#pub6), [7](#pub7)]. Currently, I am working on imaging foundation models to expand quantitative imaging and automated image processing applications in biomedical and clinical imaging. Our goal is to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. 
 
-**Future interests.** In the short-term, I’m interested in continuing to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. Longer-term, I think there is great potential in integrating a wider breadth of the imaging pipeline---including acquisition hardware, reconstruction algorithms, and downstream analysis---when developing ML-based applications for medical imaging. Ultimately, I hope to help transition these technological advances into usable systems that make measurable improvements in healthcare.
+**Future interests.** I think there is great potential in integrating a wider breadth of the imaging pipeline---including acquisition hardware, reconstruction algorithms, and downstream analysis---when developing ML-based applications for medical imaging. Ultimately, I hope to help transition these technological advances into usable systems that make measurable improvements in healthcare.
 
-**Past work.** In the past, I’ve explored other areas at the intersection of technology and healthcare. As an undergraduate at Rice University, I worked with a large team investigating automated seizure detection to control deep brain stimulation systems [[11](#pub11), [18](#pub18), [19](#pub19)]. I’ve also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I’ve investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress [[20](#pub20)].
+**Past work.** During my Ph.D., I focused on a line of work around medical image segmentation. I developed methods to train segmentation networks with limited labeled data [[1](#pub1), [4](#pub4), [10](#pub10)], evaluated these networks on clinical tasks [[1](#pub1), [12](#pub12)], and explored how we can leverage segmentation to improve other ML pipelines [[3](#pub3), ongoing]. As an undergraduate at Rice University, I worked with a large team investigating automated seizure detection to control deep brain stimulation systems [[11](#pub11), [18](#pub18), [19](#pub19)]. 
+
+I’ve also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I’ve investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress [[20](#pub20)].
 
 
+
+#### Ph.D. Dissertation
+[Label-Efficient Machine Learning for Medical Image Analaysis](https://stacks.stanford.edu/file/druid:mx843ys4683/Sarah_Hooper_PhD_Dissertation_Final-augmented.pdf).
 
 
 #### Publications
