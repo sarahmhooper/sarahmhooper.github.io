@@ -13,7 +13,7 @@ nav_order: 1
 
 **Past work.** During my Ph.D., I focused on a line of work around medical image segmentation. I developed methods to train segmentation networks with limited labeled data [[1](#pub1), [4](#pub4), [10](#pub10)], evaluated these networks on clinical tasks [[1](#pub1), [12](#pub12)], and explored how we can leverage segmentation to improve other ML pipelines [[3](#pub3), ongoing]. As an undergraduate at Rice University, I worked with a large team investigating automated seizure detection to control deep brain stimulation systems [[11](#pub11), [18](#pub18), [19](#pub19)]. 
 
-I’ve also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I’ve investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress [[20](#pub20)].
+I have also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress [[20](#pub20)].
 
 
 
