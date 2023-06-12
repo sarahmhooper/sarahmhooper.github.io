@@ -18,7 +18,7 @@ I have also enjoyed learning about and working in global health. Through an inte
 
 
 #### Ph.D. Dissertation
-[Label-Efficient Machine Learning for Medical Image Analaysis](https://stacks.stanford.edu/file/druid:mx843ys4683/Sarah_Hooper_PhD_Dissertation_Final-augmented.pdf).
+[Label-Efficient Machine Learning for Medical Image Analysis](https://stacks.stanford.edu/file/druid:mx843ys4683/Sarah_Hooper_PhD_Dissertation_Final-augmented.pdf).
 
 
 #### Publications
