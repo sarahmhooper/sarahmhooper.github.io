@@ -22,7 +22,7 @@ I have also enjoyed learning about and working in global health. Through an inte
 
 
 #### Publications
-
+ 
 <a name="pub22"> </a> 1. **S. M. Hooper**, M. Chen, K. Saab, K. Bhatia, C. Langlotz, C. Ré. A case for reframing automated medical image classification as segmentation. NeurIPS, 2023. 
 
 <a name="pub23"> </a> 2. M. Varma, J.B. Delbrouck, **S. M. Hooper**, A. Chaudhari, C. Langlotz. ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data. ICCV, 2023.
