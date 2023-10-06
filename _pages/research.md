@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-**Current research.** I have worked on projects throughout the medical imaging pipeline, from upstream image acquisition [[10](#pub8), [11](#pub9)], preprocessing [[7](#pub5)], and synthesis [[4](#pub2), [23](#pub21)] to downstream image analysis [[1](#pub1), [2](#pub1), [3](#pub1), [8](#pub6), [9](#pub7)]. Currently, I am working on imaging foundation models to expand quantitative imaging and automated image processing applications in biomedical and clinical imaging. Our goal is to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. 
+**Current research.** I have worked on projects throughout the medical imaging pipeline, from upstream image acquisition [[10](#pub8), [11](#pub9)], preprocessing [[7](#pub5)], and synthesis [[4](#pub2), [23](#pub21)] to downstream image analysis [[1](#pub1), [2](#pub1), [3](#pub1), [8](#pub6), [9](#pub7)]. Currently, I am working to expand quantitative imaging and automated image processing applications in biomedical and clinical imaging. Our goal is to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. 
 
 **Future interests.** I think there is great potential in integrating a wider breadth of the imaging pipeline---including acquisition hardware, reconstruction algorithms, and downstream analysis---when developing ML-based applications for medical imaging. I am particularly interested in projects that improve the accessibility of high-quality healthcare by reducing costs to manufacture, deploy, maintain, and use healthcare technologies. 
 
@@ -49,7 +49,7 @@ I have also enjoyed learning about and working in global health. Through an inte
 <a name="pub10"> </a> 12. D. Fu\*, M. Chen\*, F. Sala, **S. M. Hooper**, K. Fatahalian, C. Ré. [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](http://proceedings.mlr.press/v119/fu20a/fu20a.pdf). ICML, 2020. 
   
 <a name="pub11"> </a> 13. **S. M. Hooper**, E. Biegert, M. Levy, J. Pensock, L. Van der Spoel, X. Zhang, T. Zhang, N. Tandon, B. Aazhang. [On Developing an FPGA Based System for Real Time Seizure Prediction](https://ieeexplore.ieee.org/document/8335146). Asilomar Conference on Signals, Systems, and Computers, 2017.
-  
+*Awarded second best paper at conference*
 
 
 #### Abstracts
