@@ -28,7 +28,6 @@ I have also enjoyed learning about and working in global health. Through an inte
 <a name="pub23"> </a> 2. M. Varma, J.B. Delbrouck, **S. M. Hooper**, A. Chaudhari, C. Langlotz. ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data. ICCV, 2023.
 
 <a name="pub1"> </a> 3. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance Imaging. Journal of Medical Imaging, 2023. 
-
 *Cover of the Journal of Medical Imaging | Vol. 10 No. 2 | March 2023*
 
 <a name="pub2"> </a> 4. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. [Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas](https://link.springer.com/chapter/10.1007/978-3-031-16919-9_3). International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
