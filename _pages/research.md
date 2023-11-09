@@ -7,11 +7,11 @@ nav: true
 nav_order: 1
 ---
 
-**Current research.** I have worked on projects throughout the medical imaging pipeline, from upstream image acquisition [[10](#pub8), [11](#pub9)], preprocessing [[7](#pub5)], and synthesis [[4](#pub2), [23](#pub21)] to downstream image analysis [[1](#pub1), [2](#pub1), [3](#pub1), [8](#pub6), [9](#pub7)]. Currently, I am working to expand quantitative imaging and automated image processing applications in biomedical and clinical imaging. Our goal is to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. 
+**Current research.** I have worked on projects throughout the medical imaging pipeline, from upstream image acquisition [[10](#pub8), [11](#pub9)], preprocessing [[7](#pub5)], and synthesis [[4](#pub2), [23](#pub21)] to downstream image analysis [[1](#pub22), [2](#pub23), [3](#pub1), [8](#pub6), [9](#pub7)]. Currently, I am working to expand quantitative imaging and automated image processing applications in biomedical and clinical imaging. Our goal is to leverage recent progress in self-supervision and foundation models to enable rapid development of high-quality computer vision models for healthcare. 
 
 **Future interests.** I think there is great potential in integrating a wider breadth of the imaging pipeline---including acquisition hardware, reconstruction algorithms, and downstream analysis---when developing ML-based applications for medical imaging. I am particularly interested in projects that improve the accessibility of high-quality healthcare by reducing costs to manufacture, deploy, maintain, and use healthcare technologies. 
 
-**Past work.** During my Ph.D., I focused on a line of work around medical image segmentation. I developed methods to train segmentation networks with limited labeled data [[3](#pub1), [6](#pub4), [12](#pub10)], evaluated networks on clinical tasks [[3](#pub1), [14](#pub12)], and explored how to leverage segmentation to improve other ML pipelines [[1](#pub3), [2](#pub3)]. As an undergraduate at Rice University, I worked with a large team investigating automated seizure detection to control deep brain stimulation systems [[13](#pub11), [20](#pub18), [21](#pub19)]. 
+**Past work.** During my Ph.D., I focused on a line of work around medical image segmentation. I developed methods to train segmentation networks with limited labeled data [[3](#pub1), [6](#pub4), [12](#pub10)], evaluated networks on clinical tasks [[3](#pub1), [14](#pub12)], and explored how to leverage segmentation to improve other ML pipelines [[1](#pub22), [2](#pub23)]. As an undergraduate at Rice University, I worked with a large team investigating automated seizure detection to control deep brain stimulation systems [[13](#pub11), [20](#pub18), [21](#pub19)]. 
 
 I have also enjoyed learning about and working in global health. Through an internship and collaboration with the Bill and Melinda Gates Foundation, I investigated promising technologies for noninvasive malaria diagnostics and methods to leverage febrile illness surveillance systems to improve pandemic preparedness. With Rice360, I worked on a low-cost tool to warm air delivered by bCPAP machines to neonates in respiratory distress [[22](#pub20)].
 
@@ -23,11 +23,11 @@ I have also enjoyed learning about and working in global health. Through an inte
 
 #### Publications
  
-<a name="pub22"> </a> 1. **S. M. Hooper**, M. Chen, K. Saab, K. Bhatia, C. Langlotz, C. Ré. A case for reframing automated medical image classification as segmentation. NeurIPS, 2023. 
+<a name="pub22"> </a> 1. **S. M. Hooper**, M. Chen, K. Saab, K. Bhatia, C. Langlotz, C. Ré. [A case for reframing automated medical image classification as segmentation.](https://openreview.net/pdf?id=b8xowIlZ7v) NeurIPS, 2023. 
 
-<a name="pub23"> </a> 2. M. Varma, J.B. Delbrouck, **S. M. Hooper**, A. Chaudhari, C. Langlotz. ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data. ICCV, 2023.
+<a name="pub23"> </a> 2. M. Varma, J.B. Delbrouck, **S. M. Hooper**, A. Chaudhari, C. Langlotz. [ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data.](https://openaccess.thecvf.com/content/ICCV2023/papers/Varma_ViLLA_Fine-Grained_Vision-Language_Representation_Learning_from_Real-World_Data_ICCV_2023_paper.pdf) ICCV, 2023.
 
-<a name="pub1"> </a> 3. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. Semi-supervised Learning for Training Medical Image Segmentation Models with Orders of Magnitude Less Labeled Data: Applications in Cardiac Magnetic Resonance Imaging. Journal of Medical Imaging, 2023. 
+<a name="pub1"> </a> 3. **S. M. Hooper**, S. Wu, R. H. Davies, E. B. Schelbert, A. Bhuva, J. C. Moon, P. Kellman, H. Xue, C. Langlotz, C. Ré. [Evaluating semi-supervision methods for medical image segmentation: applications in cardiac magnetic resonance imaging.](https://pubmed.ncbi.nlm.nih.gov/37009059/) Journal of Medical Imaging, 2023. 
 *Cover of the Journal of Medical Imaging | Vol. 10 No. 2 | March 2023*
 
 <a name="pub2"> </a> 4. M. Wardak, **S. M. Hooper**, S. Huang, C. Schiepers, W. Chen, T. F. Cloughesy, S. S. Gambhir. [Multi-Tracer PET Imaging Using Deep Learning: Applications in Patients with High-Grade Gliomas](https://link.springer.com/chapter/10.1007/978-3-031-16919-9_3). International Workshop on Predictive Intelligence in Medicine at MICCAI, 2022. 
